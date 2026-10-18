@@ -28,10 +28,35 @@ Amr Mahmoud's earned certificates and badges — data science, AI/ML, and data e
 - [Pandas](https://www.kaggle.com/learn/certification/amrmahmoud42/pandas)
 - [Intermediate Machine Learning](https://www.kaggle.com/learn/certification/amrmahmoud42/intermediate-machine-learning)
 
-## Hugging Face (1)
+## Hugging Face (4)
 - [Fundamentals of Agents — AI Agents Course, Unit 1](https://cdn-uploads.huggingface.co/production/uploads/noauth/295yITqFq678ZQ77PLKeU.webp)
+- LLM Post Training: Instruction Tuning (Fundamentals)
+- LLM Post Training: Preference Alignment
+- LLM Post Training: Vision Language Models
 
 ## FinOps (1)
 - Introduction to FinOps
+
+## Microsoft Learn (16)
+- [Get started with AI applications and agents on Azure](https://learn.microsoft.com/en-us/training/paths/get-started-ai-apps-agents/)
+- [Get started with Microsoft data analytics](https://learn.microsoft.com/en-us/training/paths/data-analytics-microsoft/)
+- [Create machine learning models](https://learn.microsoft.com/en-us/training/paths/create-machine-learn-models/)
+- [Monitor AI workloads on Azure](https://learn.microsoft.com/en-us/training/paths/monitor-ai-workloads-on-azure/)
+- [Operationalize machine learning models (MLOps)](https://learn.microsoft.com/en-us/training/paths/build-first-machine-operations-workflow/)
+- [Ingest data with Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/ingest-data-with-microsoft-fabric/)
+- [Operationalize AI responsibly with Azure AI Foundry](https://learn.microsoft.com/en-us/training/paths/operationalize-ai-responsibly/)
+- [Explore analytics data stores in Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/explore-analytics-data-stores/)
+- [AI concepts for developers and technology professionals](https://learn.microsoft.com/en-us/training/paths/ai-concepts/)
+- [Implement a data science and machine learning solution for AI in Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/implement-data-science-machine-learning-fabric/)
+- [Implement a Lakehouse with Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/implement-lakehouse-microsoft-fabric/)
+- [Develop generative AI apps in Azure](https://learn.microsoft.com/en-us/training/paths/develop-generative-ai-apps/)
+- [Prepare AI-ready analytics data in Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/prepare-ai-ready-analytics-data/)
+- [Operationalize generative AI applications (GenAIOps)](https://learn.microsoft.com/en-us/training/paths/operationalize-gen-ai-apps/)
+- [Develop AI agents on Azure](https://learn.microsoft.com/en-us/training/paths/develop-ai-agents-azure/)
+- [Implement a data warehouse with Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/work-with-data-warehouses-using-microsoft-fabric/)
+
+## Amazon Web Services (2)
+- AWS Knowledge: Cloud Essentials (knowledge badge, assessment 96%)
+- AI Driven Development Lifecycle Foundations (knowledge badge, assessment 95%)
 
 More coming — 30-credential program in progress.
