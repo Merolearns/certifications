@@ -1,6 +1,6 @@
 # Certifications
 
-Amr Mahmoud's earned certificates and badges — data science, AI/ML, and data engineering.
+Amr Mahmoud's earned certificates and badges – data science, AI/ML, and data engineering.
 
 ## freeCodeCamp (4)
 - [Data Analysis with Python](https://www.freecodecamp.org/certification/fcc-52d937f8-2398-457c-b3e8-35e01f06af22/data-analysis-with-python-v7)
@@ -15,12 +15,13 @@ Amr Mahmoud's earned certificates and badges — data science, AI/ML, and data e
 - Analytics Fundamentals
 - Data Governance Fundamentals
 
-## Databricks Accredited (5)
+## Databricks Accredited (6)
 - Accredited Platform Administrator (verification pending via Accredible)
 - AWS Databricks Platform Architect (verification pending via Accredible)
 - GCP Databricks Platform Architect (verification pending via Accredible)
 - Machine Learning Operations (verification pending via Accredible)
 - Get Started with Databricks for Data Engineering (verification pending via Accredible)
+- Get Started with Databricks for Machine Learning (E-1G4J9V) — completed Oct 20, 2026; all 11 lessons; certificate issued via Accredible.
 
 ## Kaggle (4)
 - [Intro to Machine Learning](https://www.kaggle.com/learn/certification/amrmahmoud42/intro-to-machine-learning)
@@ -29,7 +30,7 @@ Amr Mahmoud's earned certificates and badges — data science, AI/ML, and data e
 - [Intermediate Machine Learning](https://www.kaggle.com/learn/certification/amrmahmoud42/intermediate-machine-learning)
 
 ## Hugging Face (4)
-- [Fundamentals of Agents — AI Agents Course, Unit 1](https://cdn-uploads.huggingface.co/production/uploads/noauth/295yITqFq678ZQ77PLKeU.webp)
+- [Fundamentals of Agents – AI Agents Course, Unit 1](https://cdn-uploads.huggingface.co/production/uploads/noauth/295yITqFq678ZQ77PLKeU.webp)
 - LLM Post Training: Instruction Tuning (Fundamentals)
 - LLM Post Training: Preference Alignment
 - LLM Post Training: Vision Language Models
@@ -53,7 +54,7 @@ Amr Mahmoud's earned certificates and badges — data science, AI/ML, and data e
 - [Prepare AI-ready analytics data in Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/prepare-ai-ready-analytics-data/)
 - [Operationalize generative AI applications (GenAIOps)](https://learn.microsoft.com/en-us/training/paths/operationalize-gen-ai-apps/)
 - [Develop AI agents on Azure](https://learn.microsoft.com/en-us/training/paths/develop-ai-agents-azure/)
-- [Implement a data warehouse with Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/work-with-data-warehouses-using-microsoft-fabric/)
+- [Implement a data warehouse with Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/work-data-warehouses-using-microsoft-fabric/)
 
 ## Amazon Web Services (2)
 - AWS Knowledge: Cloud Essentials (knowledge badge, assessment 96%)
