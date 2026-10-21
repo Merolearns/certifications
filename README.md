@@ -15,13 +15,14 @@ Amr Mahmoud's earned certificates and badges – data science, AI/ML, and data e
 - Analytics Fundamentals
 - Data Governance Fundamentals
 
-## Databricks Accredited (6)
+## Databricks Accredited (7)
 - Accredited Platform Administrator (verification pending via Accredible)
 - AWS Databricks Platform Architect (verification pending via Accredible)
 - GCP Databricks Platform Architect (verification pending via Accredible)
 - Machine Learning Operations (verification pending via Accredible)
 - Get Started with Databricks for Data Engineering (verification pending via Accredible)
 - Get Started with Databricks for Machine Learning (E-1G4J9V) — completed Oct 20, 2026; all 11 lessons; certificate issued via Accredible.
+- Fine-Tuning Large Language Models (Advanced Generative AI Engineering Pathway, course 2) — completed Oct 21, 2026; all 16 lessons (Mosaic AI, PEFT/LoRA, deployment, evaluation); certificate issued via Accredible.
 
 ## Kaggle (4)
 - [Intro to Machine Learning](https://www.kaggle.com/learn/certification/amrmahmoud42/intro-to-machine-learning)
