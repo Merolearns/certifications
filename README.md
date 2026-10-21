@@ -38,7 +38,7 @@ Amr Mahmoud's earned certificates and badges – data science, AI/ML, and data e
 ## FinOps (1)
 - Introduction to FinOps
 
-## Microsoft Learn (16)
+## Microsoft Learn (25)
 - [Get started with AI applications and agents on Azure](https://learn.microsoft.com/en-us/training/paths/get-started-ai-apps-agents/)
 - [Get started with Microsoft data analytics](https://learn.microsoft.com/en-us/training/paths/data-analytics-microsoft/)
 - [Create machine learning models](https://learn.microsoft.com/en-us/training/paths/create-machine-learn-models/)
@@ -55,6 +55,15 @@ Amr Mahmoud's earned certificates and badges – data science, AI/ML, and data e
 - [Operationalize generative AI applications (GenAIOps)](https://learn.microsoft.com/en-us/training/paths/operationalize-gen-ai-apps/)
 - [Develop AI agents on Azure](https://learn.microsoft.com/en-us/training/paths/develop-ai-agents-azure/)
 - [Implement a data warehouse with Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/work-data-warehouses-using-microsoft-fabric/)
+- [Implement Real-Time Intelligence with Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/explore-real-time-analytics-microsoft-fabric/)
+- [Develop natural language solutions in Azure](https://learn.microsoft.com/en-us/training/paths/develop-language-solutions-azure-ai/)
+- [Develop computer vision solutions with Microsoft Foundry](https://learn.microsoft.com/en-us/training/paths/develop-computer-vision-with-foundry/)
+- [Build machine learning solutions using Azure Databricks](https://learn.microsoft.com/en-us/training/paths/build-operate-machine-learning-solutions-azure-databricks/)
+- [Implement Generative AI engineering with Azure Databricks](https://learn.microsoft.com/en-us/training/paths/implement-generative-ai-engineering-azure-databricks/)
+- [Extract insights from visual data on Azure](https://learn.microsoft.com/en-us/training/paths/insight-visual-data/)
+- [Design and transform analytics data in Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/design-transform-analytics-data/)
+- [Secure and govern analytics data in Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/secure-govern-analytics-data/)
+- [Set up and configure an Azure Databricks environment](https://learn.microsoft.com/en-us/training/paths/azure-databricks-data-engineer-set-up-configure-environment/)
 
 ## Amazon Web Services (2)
 - AWS Knowledge: Cloud Essentials (knowledge badge, assessment 96%)
