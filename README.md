@@ -70,4 +70,7 @@ Amr Mahmoud's earned certificates and badges – data science, AI/ML, and data e
 - AWS Knowledge: Cloud Essentials (knowledge badge, assessment 96%)
 - AI Driven Development Lifecycle Foundations (knowledge badge, assessment 95%)
 
+## HP LIFE (1)
+- [Strategic Planning in the AI Age](https://www.life-global.org/certificate/b7a9f19b-a11f-4a5c-87be-d57f3bc272a3) — earned Oct 21, 2026 (HP Foundation; managerial track certificate #1)
+
 More coming — 30-credential program in progress.
