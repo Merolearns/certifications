@@ -76,5 +76,6 @@ Amr Mahmoud's earned certificates and badges – data science, AI/ML, and data e
 
 More coming — 30-credential program in progress.
 
-## Saylor Academy (1)
+## Saylor Academy (2)
 - [BUS401: Strategic Leadership Management](https://learn.saylor.org/admin/tool/certificate/view.php?code=4977885559AM) — issued October 2026 (certificate ID 4977885559AM)
+- [BUS402: Project Management](https://learn.saylor.org/admin/tool/certificate/index.php?code=9098309232AM) — issued October 2026 (certificate ID 9098309232AM)
