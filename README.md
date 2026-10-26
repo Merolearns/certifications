@@ -82,3 +82,6 @@ More coming — 30-credential program in progress.
 - [BUS303: Strategic Information Technology](https://learn.saylor.org/admin/tool/certificate/index.php?code=1479789535AM) — issued October 2026 (certificate ID 1479789535AM)
 - [BUS501: Strategic Management](https://learn.saylor.org/admin/tool/certificate/index.php?code=3632400804AM) — issued October 2026 (certificate ID 3632400804AM)
 - [BUS209: Organizational Behavior](https://learn.saylor.org/admin/tool/certificate/index.php?code=7366764460AM) — issued October 2026 (certificate ID 7366764460AM)
+
+## Google via Coursera (1)
+- [Google AI Essentials](https://coursera.org/verify/specialization/UY6KRW09GIY9) — earned October 2026; 5-course Specialization (Introduction to AI, Maximize Productivity With AI Tools, Discover the Art of Prompting, Use AI Responsibly, Stay Ahead of the AI Curve).
