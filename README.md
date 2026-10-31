@@ -85,7 +85,8 @@ More coming — 30-credential program in progress.
 - [BUS209: Organizational Behavior](https://learn.saylor.org/admin/tool/certificate/index.php?code=7366764460AM) — issued October 2026 (certificate ID 7366764460AM)
 - [BUS300: Operations Management](https://learn.saylor.org/admin/tool/certificate/index.php?code=0337127875AM) — issued October 2026 (certificate ID 0337127875AM)
 
-## Google via Coursera (2)
+## Coursera (3)
 - [Google AI Essentials](https://coursera.org/verify/specialization/UY6KRW09GIY9) — earned October 2026; 5-course Specialization (Introduction to AI, Maximize Productivity With AI Tools, Discover the Art of Prompting, Use AI Responsibly, Stay Ahead of the AI Curve).
 
 - [Google AI Professional Certificate](https://coursera.org/verify/specialization/UKZPNZ056UX7) — earned October 2026
+- [Microsoft AI & ML Engineering Professional Certificate](https://coursera.org/verify/specialization/753D6LMVAOCZ) — earned October 2026 (Microsoft)
