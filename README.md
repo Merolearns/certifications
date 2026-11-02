@@ -77,7 +77,7 @@ Amr Mahmoud's earned certificates and badges – data science, AI/ML, and data e
 
 More coming — 30-credential program in progress.
 
-## Saylor Academy (7)
+## Saylor Academy (8)
 - [BUS401: Strategic Leadership Management](https://learn.saylor.org/admin/tool/certificate/view.php?code=4977885559AM) — issued October 2026 (certificate ID 4977885559AM)
 - [BUS402: Project Management](https://learn.saylor.org/admin/tool/certificate/index.php?code=9098309232AM) — issued October 2026 (certificate ID 9098309232AM)
 - [BUS303: Strategic Information Technology](https://learn.saylor.org/admin/tool/certificate/index.php?code=1479789535AM) — issued October 2026 (certificate ID 1479789535AM)
@@ -85,6 +85,7 @@ More coming — 30-credential program in progress.
 - [BUS209: Organizational Behavior](https://learn.saylor.org/admin/tool/certificate/index.php?code=7366764460AM) — issued October 2026 (certificate ID 7366764460AM)
 - [BUS300: Operations Management](https://learn.saylor.org/admin/tool/certificate/index.php?code=0337127875AM) — issued October 2026 (certificate ID 0337127875AM)
 - [BUS403: Negotiations and Conflict Management](https://learn.saylor.org/admin/tool/certificate/index.php?code=1826976439AM) — issued October 2026 (certificate ID 1826976439AM)
+- [BUS301: Human Resource Management](https://learn.saylor.org/admin/tool/certificate/index.php?code=7185456708AM) — issued November 2026 (certificate ID 7185456708AM)
 
 ## Coursera (3)
 - [Google AI Essentials](https://coursera.org/verify/specialization/UY6KRW09GIY9) — earned October 2026; 5-course Specialization (Introduction to AI, Maximize Productivity With AI Tools, Discover the Art of Prompting, Use AI Responsibly, Stay Ahead of the AI Curve).
