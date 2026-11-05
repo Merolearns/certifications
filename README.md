@@ -78,6 +78,10 @@ Amr Mahmoud's earned certificates and badges – data science, AI/ML, and data e
 
 More coming — 30-credential program in progress.
 
+## HubSpot Academy (1)
+- [Revenue Operations Certification](https://app-na2.hubspot.com/academy/achievements/35ds9zhm/en/1/amr-mahmoud/hubspot-revenue-operations) — earned Nov 4, 2026; final exam 56/60 (93.3%) first attempt (pass 45/60); certification code 33aaac76ab5946f497d53c3052e658ad; valid Nov 4, 2026 – Dec 3, 2028
+
+
 ## Saylor Academy (9)
 - [BUS401: Strategic Leadership Management](https://learn.saylor.org/admin/tool/certificate/view.php?code=4977885559AM) — issued October 2026 (certificate ID 4977885559AM)
 - [BUS402: Project Management](https://learn.saylor.org/admin/tool/certificate/index.php?code=9098309232AM) — issued October 2026 (certificate ID 9098309232AM)
