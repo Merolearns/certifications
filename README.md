@@ -93,8 +93,10 @@ More coming — 30-credential program in progress.
 - [BUS301: Human Resource Management](https://learn.saylor.org/admin/tool/certificate/index.php?code=7185456708AM) — issued November 2026 (certificate ID 7185456708AM)
 - [BUS605: Strategic Project Management](https://learn.saylor.org/admin/tool/certificate/index.php?code=8887368026AM) — issued November 2026 (certificate ID 8887368026AM)
 
-## Coursera (3)
+## Coursera (5)
 - [Google AI Essentials](https://coursera.org/verify/specialization/UY6KRW09GIY9) — earned October 2026; 5-course Specialization (Introduction to AI, Maximize Productivity With AI Tools, Discover the Art of Prompting, Use AI Responsibly, Stay Ahead of the AI Curve).
 
 - [Google AI Professional Certificate](https://coursera.org/verify/specialization/UKZPNZ056UX7) — earned October 2026
 - [Microsoft AI & ML Engineering Professional Certificate](https://coursera.org/verify/specialization/753D6LMVAOCZ) — earned October 2026 (Microsoft)
+- [Learn SQL Basics for Data Science](https://www.coursera.org/verify/specialization/PBCVIQ4G5V5Q) — earned November 2026 (University of California, Davis)
+- [SQL for Data Science Capstone Project](https://www.coursera.org/verify/ABHG4X07EMKC) — earned November 2026 (University of California, Davis)
