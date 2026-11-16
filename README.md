@@ -101,6 +101,6 @@ More coming — 30-credential program in progress.
 - [Learn SQL Basics for Data Science](https://www.coursera.org/verify/specialization/PBCVIQ4G5V5Q) — earned November 2026 (University of California, Davis)
 - [SQL for Data Science Capstone Project](https://www.coursera.org/verify/ABHG4X07EMKC) — earned November 2026 (University of California, Davis)
 
-## Microsoft (Coursera) (1)
-
+## Microsoft (Coursera) (2)
 - [Core generative models and techniques](https://www.coursera.org/account/accomplishments/verify/R7AACQVBLIPX) — earned November 2026 (Microsoft; Course 2 of the Microsoft Generative AI Engineering Professional Certificate)
+- [Working with large language models using Azure](https://www.coursera.org/verify/3YUR0NXDZEQC) — earned Nov 15, 2026 (Microsoft; Course 3 of the Microsoft Generative AI Engineering Professional Certificate)
