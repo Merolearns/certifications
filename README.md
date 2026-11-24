@@ -66,9 +66,10 @@ Amr Mahmoud's earned certificates and badges – data science, AI/ML, and data e
 - [Secure and govern analytics data in Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/secure-govern-analytics-data/)
 - [Set up and configure an Azure Databricks environment](https://learn.microsoft.com/en-us/training/paths/azure-databricks-data-engineer-set-up-configure-environment/)
 
-## Amazon Web Services (2)
+## Amazon Web Services (3)
 - AWS Knowledge: Cloud Essentials (knowledge badge, assessment 96%)
 - AI Driven Development Lifecycle Foundations (knowledge badge, assessment 95%)
+- - [Introduction to Generative AI - Art of the Possible](https://skillbuilder.aws/learn/ZEVZZ1D4AS/introduction-to-generative-ai--art-of-the-possible/Y7MTGJCW1U) — completed Nov 23, 2026; AWS Training & Certification Completion Certificate; no public verification URL (session PDF only)
 
 ## HP LIFE (4)
 - [Strategic Planning in the AI Age](https://www.life-global.org/certificate/b7a9f19b-a11f-4a5c-87be-d57f3bc272a3) — earned Oct 21, 2026 (HP Foundation; managerial track certificate #1)
