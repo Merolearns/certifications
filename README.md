@@ -102,6 +102,55 @@ More coming — 30-credential program in progress.
 - [Learn SQL Basics for Data Science](https://www.coursera.org/verify/specialization/PBCVIQ4G5V5Q) — earned November 2026 (University of California, Davis)
 - [SQL for Data Science Capstone Project](https://www.coursera.org/verify/ABHG4X07EMKC) — earned November 2026 (University of California, Davis)
 
-## Microsoft (Coursera) (2)
-- [Core generative models and techniques](https://www.coursera.org/account/accomplishments/verify/R7AACQVBLIPX) — earned November 2026 (Microsoft; Course 2 of the Microsoft Generative AI Engineering Professional Certificate)
+## Microsoft (Coursera) (5)
+- [Core generative models and techniques](https://www.coursera.org/account/accomplishments/verify/R7AACQVBLIPX) — earned November 2026 (Microsoft; Course 2 of the Microsoft Generative AI Engineering Professional Certifica te)
 - [Working with large language models using Azure](https://www.coursera.org/verify/3YUR0NXDZEQC) — earned Nov 15, 2026 (Microsoft; Course 3 of the Microsoft Generative AI Engineering Professional Certificate)
+
+- [Multimodal and cross-modal AI integrations](https://www.coursera.org/verify/T1QILAEB0IPE) — earned Nov 22, 2026
+- [MLOps and responsible AI practices](https://coursera.org/verify/1O21HQ1JQ0YQ) — earned Nov 22, 2026
+- [Microsoft Generative AI Engineering Professional Certificate](https://coursera.org/verify/professional-cert/0H68XM9X1USI) — earned Nov 22, 2026
+
+## Google Cloud (Coursera) (13)
+- [Preparing for Google Cloud Certification: Cloud Data Engineer](https://coursera.org/verify/professional-cert/PA0MN05ASH07) — earned Nov 24, 2026
+- [Introduction to Generative AI](https://www.coursera.org/verify/RH9NZ1A4HNNI) — earned Nov 24, 2026
+- [Introduction to Large Language Models](https://www.coursera.org/verify/9NBV8J546ROB) — earned Nov 24, 2026
+- [Introduction to Responsible AI](https://www.coursera.org/verify/XH87PLGDUCVQ) — earned Nov 24, 2026
+- [Introduction to Image Generation](https://www.coursera.org/verify/G47E42EAN0TR) — earned Nov 24, 2026
+- [Attention Mechanism](https://www.coursera.org/verify/H85W4ZN8Z9TF) — earned Nov 24, 2026
+- [Transformer Models and BERT Model](https://www.coursera.org/verify/DUYRZQ6OA8UP) — earned Nov 24, 2026
+- [Encoder-Decoder Architecture](https://www.coursera.org/verify/BXI5T1HHE8ZD) — earned Nov 24, 2026
+- [Innovating with Google Cloud Artificial Intelligence](https://www.coursera.org/verify/VJ0GSV2LDNM0) — earned Nov 24, 2026
+- [Digital Transformation with Google Cloud](https://www.coursera.org/verify/VXF0N853TPAK) — earned Nov 24, 2026
+- [Responsible AI: Applying AI Principles with Google Cloud](https://www.coursera.org/verify/KG9I6YCHAQN3) — earned Nov 24, 2026
+- [Modernize Infrastructure and Applications with Google Cloud](https://www.coursera.org/verify/CGBFJSOV13FK) — earned Nov 24, 2026
+- [Digital Transformation Using AI/ML with Google Cloud](https://www.coursera.org/verify/specialization/9BZDG32CYSPN) — earned Nov 24, 2026
+
+## Google (Coursera) (22)
+- [Google Advanced Data Analytics](https://www.coursera.org/account/accomplishments/specialization/98UQEANFJQ82) — earned Nov 24, 2026
+- [Google Business Intelligence](https://www.coursera.org/verify/professional-cert/ES2253GQRMVC) — earned Nov 24, 2026
+- [Google Advanced Data Analytics Capstone](https://www.coursera.org/verify/MMDGIJARS84D) — earned Nov 24, 2026
+- [Foundations of Data Science](https://www.coursera.org/verify/KK9WBVWTZGYV) — earned Nov 24, 2026
+- [Regression Analysis: Simplify Complex Data Relationships](https://www.coursera.org/verify/T3VVIMRBQHVR) — earned Nov 24, 2026
+- [Go Beyond the Numbers: Translate Data into Insights](https://www.coursera.org/verify/ZWXIK46NVJOI) — earned Nov 24, 2026
+- [Foundations of Business Intelligence](https://www.coursera.org/verify/N214BP7UEZ5S) — earned Nov 24, 2026
+- [The Nuts and Bolts of Machine Learning](https://www.coursera.org/verify/Y7WTEBND6AZK) — earned Nov 24, 2026
+- [The Power of Statistics](https://www.coursera.org/verify/KJ16WPT3UG3S) — earned Nov 24, 2026
+- [The Path to Insights: Data Models and Pipelines](https://www.coursera.org/verify/ESWHM1NM91KM) — earned Nov 24, 2026
+- [Decisions, Decisions](https://www.coursera.org/verify/75EKOVGCZS98) — earned Nov 24, 2026
+- [Google Prompting Essentials](https://coursera.org/verify/specialization/OUTHMN37IK3M) — earned Nov 24, 2026
+- [Gemini in Google Sheets](https://www.coursera.org/verify/B6X3F7B2H8GO) — earned Nov 24, 2026
+- [Gemini in Google Slides](https://www.coursera.org/verify/06HLCBYG6EW8) — earned Nov 24, 2026
+- [Gemini in Google Gmail](https://www.coursera.org/verify/U4ZA6FL5NEW0) — earned Nov 24, 2026
+- [Gemini in Google Docs](https://www.coursera.org/verify/7DIQCSNHK9C9) — earned Nov 24, 2026
+- [Gemini in Google Meet](https://www.coursera.org/verify/URX63PMG0DJS) — earned Nov 24, 2026
+- [Gemini in Google Chat](https://www.coursera.org/verify/FUJBTQ432YB5) — earned Nov 24, 2026
+- [Gemini in Google Drive](https://www.coursera.org/verify/GJK5B2XRW1TR) — earned Nov 24, 2026
+- [Gemini in Google Vids](https://www.coursera.org/verify/KMQZYIH6XJTV) — earned Nov 24, 2026
+- [Google Workspace with Gemini: Foundations of Your AI Workflow](https://www.coursera.org/verify/CPHDG1URMMCS) — earned Nov 24, 2026
+- [Google Workspace with Gemini](https://www.coursera.org/verify/specialization/TQ450BV4H5UM) — earned Nov 24, 2026
+
+## IBM (Coursera) (1)
+- [Generative AI: Introduction and Applications](https://www.coursera.org/verify/VRU0919CWJBE) — earned Nov 24, 2026
+
+## University of Colorado Boulder (Coursera) (1)
+- [Network Systems Foundations](https://www.coursera.org/verify/SLUMZSTAS11N) — earned Nov 24, 2026
